@@ -1,3 +1,3 @@
 # snoringcat.games
 
-Right now, this just holds some Snoring Cat assets.
+Right now this just holds some Snoring Cat assets.

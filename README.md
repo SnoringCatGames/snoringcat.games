@@ -1,2 +1,3 @@
 # snoringcat.games
-Snoring Cat's website
+
+Right now, this just holds some Snoring Cat assets.
